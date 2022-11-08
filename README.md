@@ -1,5 +1,8 @@
 # Supervised Machine Learning  - Predicting Credit Risk
 
+![image](https://user-images.githubusercontent.com/106934375/200453207-d000ffc7-40b6-4ad3-89fc-5550ba0226c1.png)
+
+
 In this assignment, you will be building a machine learning model that attempts to predict whether a loan will be approved or not. 
 
 ## Background
